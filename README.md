@@ -1,15 +1,15 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90" width="100%"/>
   
-  <h1>Hi there, I'm <a href="https://github.com/your-username">Your Name</a>! 👋</h1>
+  <h1>Hi there, I'm <a href="https://github.com/AsparkArcane">AsparkArcane</a></h1>
   
   <h3>🚀 Full Stack Developer | 💻 Competitive Programmer | 🎨 UI/UX Enthusiast</h3>
 
   <p>
-     <a href="https://linkedin.com/in/your-linkedin-handle">
+     <a href="www.linkedin.com/in/nathan-j-dsouza">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
      </a>
-     <a href="mailto:your-email@gmail.com">
+     <a href="nathan.dsouza.610@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
      </a>
      <a href="https://your-portfolio-website.com">
@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I’m currently a Computer Science Engineering student.
+- 🎓 I’m currently a Information Technology Engineering student at VJTI.
 - 🔭 I’m currently working on **MERN Stack projects and AI integration**.
 - 🌱 I’m currently learning **Cloud Computing and System Design**.
 - 👯 I’m looking to collaborate on **Open Source projects**.
