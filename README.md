@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=AsparkArcane%20&fontSize=90" width="100%"/>
   
   <h1>Hi there, I'm <a href="https://github.com/AsparkArcane">AsparkArcane</a></h1>
   
