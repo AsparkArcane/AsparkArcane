@@ -6,10 +6,10 @@
   <h3>🚀 Full Stack Developer | 💻 Competitive Programmer | 🎨 UI/UX Enthusiast</h3>
 
   <p>
-     <a href="www.linkedin.com/in/nathan-j-dsouza">
+     <a href="https://www.linkedin.com/in/nathan-j-dsouza">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
      </a>
-     <a href="nathan.dsouza.610@gmail.com">
+     <a href="mailto:nathan.dsouza.610@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
      </a>
      <a href="https://your-portfolio-website.com">
