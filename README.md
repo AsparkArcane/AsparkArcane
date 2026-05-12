@@ -72,15 +72,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsparkArcane&theme=tokyonight" alt="AsparkArcane" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsparkArcane&theme=tokyonight" alt="AsparkArcane Streak" />
   
   <br/> <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsparkArcane&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=AsparkArcane&layout=compact&theme=tokyonight" alt="Top Langs" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AsparkArcane&show_icons=true&theme=tokyonight" alt="Github Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=AsparkArcane&show_icons=true&theme=tokyonight" alt="Github Stats" />
 </div>
-
 ---
 
 ### 🏆 Trophies
